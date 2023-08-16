@@ -25,3 +25,7 @@ Attached is a link to the deployed webpage.
 Attached is a video walkthrough of the application. 
 
 [Walkthrough Video](https://watch.screencastify.com/v/78Sdy1LAr7aN6tBkOsNh)
+
+## Collaborators
+
+Thank you to my TAs and Tutors for your guidence on this project.
